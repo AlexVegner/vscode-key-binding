@@ -4,6 +4,6 @@
 3. Update file keybindings.json with https://github.com/AlexVegner/vscode-key-binding/blob/master/keybindings.json
 
 v1.0 changes: 
--  { "key": "cmd+n", "command": "explorer.newFile" },
+- { "key": "cmd+n", "command": "explorer.newFile" },
 - { "key": "alt+enter", "command": "editor.action.quickFix" },
 - { "key": "cmd+d", "command": "editor.action.copyLinesDownAction" }
