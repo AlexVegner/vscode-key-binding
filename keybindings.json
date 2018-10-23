@@ -1,6 +1,7 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-    { "key": "ctrl+n", "command": "explorer.newFile" },
+    { "key": "cmd+n", "command": "explorer.newFile" },
+    { "key": "ctrl+n", "command": "workbench.action.files.newUntitledFile" },
     { "key": "alt+enter", "command": "editor.action.quickFix" },
     { "key": "cmd+d", "command": "editor.action.copyLinesDownAction" }
 ]
