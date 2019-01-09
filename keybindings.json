@@ -3,5 +3,7 @@
     { "key": "cmd+n", "command": "explorer.newFile" },
     { "key": "ctrl+n", "command": "workbench.action.files.newUntitledFile" },
     { "key": "alt+enter", "command": "editor.action.quickFix" },
-    { "key": "cmd+d", "command": "editor.action.copyLinesDownAction" }
+    { "key": "cmd+d", "command": "editor.action.copyLinesDownAction" },
+    { "key": "shift+alt+u", "command": "editor.action.transformToUppercase" },
+    { "key": "shift+alt+l", "command": "editor.action.transformToLowercase" }
 ]
