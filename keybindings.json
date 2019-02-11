@@ -1,9 +1,11 @@
-// Place your key bindings in this file to overwrite the defaults
+// Place your key bindings in this file to override the defaults
 [
     { "key": "cmd+n", "command": "explorer.newFile" },
     { "key": "ctrl+n", "command": "workbench.action.files.newUntitledFile" },
     { "key": "alt+enter", "command": "editor.action.quickFix" },
     { "key": "cmd+d", "command": "editor.action.copyLinesDownAction" },
     { "key": "shift+alt+u", "command": "editor.action.transformToUppercase" },
-    { "key": "shift+alt+l", "command": "editor.action.transformToLowercase" }
+    { "key": "shift+alt+l", "command": "editor.action.transformToLowercase" },
+    { "key": "alt+cmd+left", "command": "workbench.action.navigateBack" },
+    { "key": "alt+cmd+right", "command": "workbench.action.navigateForward" }
 ]
